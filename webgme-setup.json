@@ -8,6 +8,10 @@
       "PythonPlugin": {
         "src": "src/plugins/PythonPlugin",
         "test": "test/plugins/PythonPlugin"
+      },
+      "JavaPlugin": {
+        "src": "src/plugins/JavaPlugin",
+        "test": "test/plugins/JavaPlugin"
       }
     }
   },
